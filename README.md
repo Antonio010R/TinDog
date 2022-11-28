@@ -1,1 +1,3 @@
-#TinDog
+# TinDog
+## developed by Anton Roy
+
